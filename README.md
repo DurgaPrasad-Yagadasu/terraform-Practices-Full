@@ -1,7 +1,9 @@
 # terraform-Practices-Full
 Terraform basics to deapth
 Terraform Zero to Hero course
+
 **Day 1: Getting Started with Terraform**
+
 Introduction to Terraform and IaC
 In this session, we'll introduce you to the fundamental concepts of Terraform and Infrastructure as Code (IaC). Learn why Terraform is crucial for managing infrastructure and how IaC streamlines provisioning.
 
@@ -24,6 +26,7 @@ Terraform State Basics
 Understand the importance of Terraform state files. Learn about desired and current states, and how Terraform manages these states to ensure infrastructure consistency.
 
 **Day 2: Advanced Terraform Configuration**
+
 Understanding Providers and Resources
 Deepen your knowledge of providers and resources. Explore the role of different providers for various cloud platforms and understand how resources define infrastructure components.
 
@@ -53,6 +56,7 @@ Exploring Terraform Registry for Modules
 Embark on a journey through the Terraform Registry. Discover pre-built, community-contributed modules and learn how to incorporate them into your own configurations.
 
 **Day 4: Collaboration and State Management**
+
 Collaborating with Git and Version Control
 Collaborate effectively using Git and version control. Grasp fundamental Git commands such as cloning, pulling, and pushing repositories to enhance teamwork.
 
@@ -69,6 +73,7 @@ State Locking with DynamoDB
 Dive into state locking and the prevention of concurrent updates. Implement state locking using DynamoDB as a backend mechanism, ensuring state consistency.
 
 **Day 5: Provisioning and Provisioners**
+
 Understanding Provisioners in Terraform
 Learn about provisioners, mechanisms for executing actions on resources during creation and destruction. Understand how they facilitate customization.
 
@@ -82,6 +87,7 @@ Failure Handling for Provisioners
 Gain insights into handling provisioner failures. Learn about retry mechanisms, timeouts, and the on_failure attribute to control provisioner behavior on failure.
 
 **Day 6: Managing Environments with Workspaces**
+
 Introduction to Terraform Workspaces
 Understand the concept of workspaces and their role in managing different environments. Learn how workspaces aid in isolating configurations.
 
@@ -92,6 +98,7 @@ Using Workspaces for Environment Management
 Learn deeper into how workspaces streamline environment management. Comprehend their benefits in maintaining separate state files for various settings.
 
 **Day 7: Security and Advanced Topics**
+
 HashiCorp Vault Overview
 Gain an overview of HashiCorp Vault, a powerful tool for secret management and data protection. Understand its significance in maintaining secure configurations.
 
